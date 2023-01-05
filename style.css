@@ -12,18 +12,22 @@ p{
    font-family: 'Lato', sans-serif;
 }
 
-
 .boxtest{
+   
    width:600px;
    height:300px;
    
+   
 }
 .col-6{
+
    width:600px;
    height:300px;
-    
+ 
 }
-.col-6 :{
-   width : 600px
-   height : 600px
+.col -6{
+
+   width :600px
+   heignt:300px
+
 }
