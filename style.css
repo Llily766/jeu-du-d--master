@@ -16,18 +16,29 @@ p{
    
    width:400px;
    height:300px;
+   position: relative;
    
    
    
 }
 .col-6{
 
-   width:400px;
-   height:300px;
+   width:600px;
+   height:500px;
+   float :right;
  
 }
 .col-6{
-   width:400px;
+   width:600px;
    height:300px;
+   float : left;
    
+}
+.dice {
+   position : absolute;
+   top: 30px;
+   bottom:30px;
+   right :150px;
+   left: 500px;
+   height : 0px;
 }
