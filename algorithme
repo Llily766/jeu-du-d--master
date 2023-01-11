@@ -1,0 +1,13 @@
+a joueur 1
+b joueur 2
+
+si "a "tombe sur la position 2
+alors il continue de jouer ,
+sinon, il met tout dans le round
+les résultats de"a"iront dans le Global;
+Sinon,il continue de jouer
+
+si il lance le dé et obtient 1,son score est PERDU 
+Alors le joueur "b" peut lancer les dés. 
+Il lance et tombe sur le 1,il a PERDU.
+le premier qui arrive à 100 a gagné.
