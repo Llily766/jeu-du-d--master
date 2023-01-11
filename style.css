@@ -17,7 +17,8 @@ p{
    width:400px;
    height:300px;
    position: relative;
-}   
+  
+}  
 
   
 
@@ -28,6 +29,7 @@ p{
    float :right;
  
 }
+ 
 .col-6{
    
    width:600px;
